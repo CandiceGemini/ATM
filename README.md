@@ -1,2 +1,2 @@
-# ATM
-a code work as simple ATM
+# homework
+my C++ homework
